@@ -5,7 +5,7 @@ body {
   font-family: 'Segoe UI', sans-serif;
   color: #fff;
   scroll-behavior: smooth;
-  background: url('img/space.jpg') no-repeat center center fixed;
+  background: url('space.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
